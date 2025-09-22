@@ -3,7 +3,7 @@
 📍 Stockholm, Sweden  
 📧 Email: prku7110@student.su.se  
 🔗 LinkedIn: prashant-singh-173a89215  
-👨‍💻 GitHub: prashant7110  
+👨‍💻 GitHub: PrashantSU
 
 ---
 
