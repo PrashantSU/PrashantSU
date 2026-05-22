@@ -1,39 +1,49 @@
-👋 Hello, I'm Prashant!  
-🚀 MS Data Science student specializing in ML, Deep Learning & Applied Mathematics  
-📍 Stockholm, Sweden  
-📧 Email: prku7110@student.su.se  
-🔗 LinkedIn: prashant-singh-173a89215  
-👨‍💻 GitHub: PrashantSU
+# Hi, I'm Prashant Kumar Singh
+
+AI researcher and data science graduate student at Stockholm University.
+Currently a master thesis intern at Huawei R&D, developing multi-agent
+reinforcement learning and spatio-temporal models for 5G networks.
+
+Previously a research assistant at KTH Royal Institute of Technology,
+working on Bayesian deep learning and state estimation.
 
 ---
 
-### About Me 🌐  
-Blending expertise in **machine learning, time-series forecasting, Bayesian modeling, and statistical analysis**, I aim to apply **data-driven methods** to solve real-world challenges.  
+## Research interests
+
+- Multi-agent reinforcement learning (MARL, CTDI, ND-POMDP)
+- Spatio-temporal modeling and graph neural networks (StemGNN)
+- Bayesian deep learning and Kalman filtering (DANSE, KalmanNet)
+- Time series forecasting under uncertainty
+- AI for communication systems and urban networks
 
 ---
 
-### Professional Highlights 🌟  
-🎓 MS Data Science – Stockholm University (2024 – Present)  
-🔬 Research Assistant – KTH Royal Institute of Technology (2025 – Present)  
-🎓 M.Tech Structural Engineering – IIT Gandhinagar (2020 – 2022)  
-🎓 B.Tech Civil Engineering – NERIST (2016 – 2020)  
+## Publications (under review)
+
+- **Spatio-Temporal Scheduling Prediction Under Backhaul Delay
+  for Resilient Coordinated Beamforming**
+  Submitted to ARES SAFE 2026
+
+- **Homotopy Perturbation Method for the Solution of Von Kármán
+  Large Deflection Theory of Rectangular Plate**
+  Submitted to AIMS Mathematics
 
 ---
 
-### Tech Toolbox 🛠️  
-**Languages**: Python, R, SQL  
-**ML/AI**: CNNs, RNNs (LSTM/GRU), Transformers (BERT), Bayesian Inference, Time-Series Forecasting  
-**Frameworks**: PyTorch, Hugging Face, Scikit-learn, Pandas, NumPy  
-**Specialties**: Deep Learning, Statistical Modeling, Decision Analysis  
+## Pinned projects
+
+| Repo | What it is |
+|---|---|
+| [StemGNN-Traffic](link) | Spatio-temporal GNN for traffic forecasting on PEMS-BAY/PEMS07 |
+| [Transformers](link) | Transformer implementations in PyTorch |
+| [RNNs-with-PyTorch](link) | RNN architectures for sequence modeling |
+| [Statistical-exploration-of-Swedish-housing](link) | Bayesian regression on Stockholm housing data |
 
 ---
 
-### Certifications 📜  
-- **Coursera**: Deep Learning, Machine Learning, Mathematics for ML  
-- **Udemy**: Machine Learning A–Z (Python & R)  
-- **LinkedIn**: Big Data in the Age of AI, SQL Database Design  
-- **Kaggle**: Pandas, Data Cleaning, Visualization, Deep Learning, Feature Engineering, AI Ethics, RL  
+## Contact
 
----
-
-✨ Let’s connect to explore **AI, ML & Data Science collaborations**!  
+📧 prku7110@student.su.se
+🔗 [LinkedIn](https://www.linkedin.com/in/prashant-singh-173a89215)
+📍 Stockholm, Sweden
