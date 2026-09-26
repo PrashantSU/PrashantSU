@@ -20,8 +20,9 @@ working on Bayesian deep learning and state estimation.
 
 ## Publications 
 
-- **Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming**
-  *ARES SAFE 2026*
+Prashant Kumar Singh, Shubham Vaishnav, Ahmet Hasim Gökceoglu, Li Wang. **Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming.**
+ARES International Workshop 2026, Springer, 2026,DOI: https://doi.org/10.1007/978-3-032-35576-8_25
+
 
 
 ---
