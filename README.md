@@ -18,13 +18,11 @@ working on Bayesian deep learning and state estimation.
 
 ---
 
-## Publications (under review)
+## Publications 
 
 - **Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming**
   *ARES SAFE 2026*
 
-- **Homotopy Perturbation Method for the Solution of Von Kármán Large Deflection Theory of Rectangular Plate**
-  *Submitted to AIMS Mathematics* — sole authored
 
 ---
 
