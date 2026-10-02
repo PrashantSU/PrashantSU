@@ -1,5 +1,7 @@
 # Hi, I'm Prashant Kumar Singh
 
+MS Data Science @ Stockholm University | IIT Gandhinagar & NERIST Alumni | ML & Applied Math Enthusiast
+
 AI researcher and data science graduate student at Stockholm University.
 Currently a master thesis intern at **Huawei R&D**, developing multi-agent
 reinforcement learning and spatio-temporal models for 5G coordinated beamforming.
@@ -18,12 +20,10 @@ working on Bayesian deep learning and state estimation.
 
 ---
 
-## Publications 
+## Publications
 
 Prashant Kumar Singh, Shubham Vaishnav, Ahmet Hasim Gökceoglu, Li Wang. **Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming.**
-ARES International Workshop 2026, Springer, 2026,DOI: https://doi.org/10.1007/978-3-032-35576-8_25
-
-
+ARES International Workshop 2026, Springer, 2026, DOI: https://doi.org/10.1007/978-3-032-35576-8_25
 
 ---
 
@@ -56,10 +56,27 @@ ARES International Workshop 2026, Springer, 2026,DOI: https://doi.org/10.1007/97
 | [Inferential-Statistics-and-Multivariate-Regression-Modeling-of-Housing-Prices-in-Stockholm](https://github.com/PrashantSU/Inferential-Statistics-and-Multivariate-Regression-Modeling-of-Housing-Prices-in-Stockholm) | Multivariate regression and inferential statistics |
 | [Machine-Learning-Pipelines-and-Grid-Search](https://github.com/PrashantSU/Machine-Learning-Pipelines-and-Grid-Search) | Scikit-learn pipelines and hyperparameter search |
 
+### Data Engineering
+
+| Repo | What it is |
+|---|---|
+| [airflow](https://github.com/PrashantSU/airflow) | Apache Airflow — workflow orchestration (forked) |
+| [Fabric-NYC-Taxi-Data-Project](https://github.com/PrashantSU/Fabric-NYC-Taxi-Data-Project) | Microsoft Fabric NYC taxi data project (forked) |
+| [end-to-end-data-engineering-project-4413618](https://github.com/PrashantSU/end-to-end-data-engineering-project-4413618) | End-to-End Data Engineering Project (LinkedIn Learning) |
+
+---
+
+## Achievements
+
+- **18th place** (top ~7%) among approximately 275 international teams in the **Huawei International Mathematics Competition 2026 (IMC 2026)** — [competition repo](https://github.com/PrashantSU/imc-2026-perception-loss)
+- **GATE qualified** with 94 percentile
+- Ranked **3rd in class** during B.Tech at NERIST
+
 ---
 
 ## Contact
 
 📧 iamprashant1999@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/prashant-singh-173a89215)
+🐙 [GitHub](https://github.com/PrashantSU) — 18 public repositories
 📍 Stockholm, Sweden
