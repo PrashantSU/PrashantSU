@@ -1,6 +1,6 @@
 # Hi, I'm Prashant Kumar Singh
 
-**MSc Data Science @ Stockholm University | Machine Learning | Reinforcement Learning | Applied AI**
+**MSc Data Science @ Stockholm University | Machine Learning | Applied AI**
 
 I'm a data science master's student at Stockholm University with a background in applied mathematics and engineering. My current research at **Huawei R&D** focuses on machine learning for coordinated beamforming in 5G networks. Previously, I worked as a research assistant at **KTH Royal Institute of Technology** on nonlinear state estimation.
 
