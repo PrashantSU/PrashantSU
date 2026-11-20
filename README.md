@@ -1,73 +1,87 @@
-# Hi, I'm Prashant Kumar Singh
+# Hi, I'm Prashant Kumar Singh 👋
 
-**MSc Data Science @ Stockholm University | Machine Learning | Applied AI**
+**AI Engineer | Machine Learning | Data Engineering**
 
-I'm a data science master's student at Stockholm University with a background in applied mathematics and engineering. My current research at **Huawei R&D** focuses on machine learning for coordinated beamforming in 5G networks. Previously, I worked as a research assistant at **KTH Royal Institute of Technology** on nonlinear state estimation.
+MSc in Data Science, Statistics & Decision Analysis from **Stockholm University**, with a background in applied mathematics and engineering.
 
-I’m interested in building and evaluating machine learning models, from reinforcement learning and sequence modelling to retrieval-augmented generation.
+I have experience in machine learning research and development at **Huawei R&D**, where I worked on ML-based scheduling prediction for coordinated beamforming in 5G networks. My research interests include applied machine learning, wireless optimisation, reinforcement learning and intelligent systems.
 
-## Research
+I enjoy building and evaluating practical AI and data systems, from machine learning models and RAG applications to data pipelines and end-to-end engineering projects.
 
-- Machine learning for wireless communication systems
-- Reinforcement learning and sequential decision-making
-- Graph neural networks and time-series modelling
-- Bayesian learning and nonlinear state estimation
+## 🔧 Technical Interests
 
-## Publication
+- **AI & LLM Engineering:** LLMs, Retrieval-Augmented Generation (RAG), embeddings, semantic search
+- **Machine Learning:** Deep learning, sequence modelling, reinforcement learning, model evaluation
+- **Data Engineering:** Data pipelines, ETL, SQL, Python, Microsoft Fabric
+- **Applied Mathematics:** Statistical modelling, optimisation, Bayesian learning, decision analysis
 
-Prashant Kumar Singh, Shubham Vaishnav, Ahmet Hasim Gökceoglu, Li Wang. **Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming.**
+## 🚀 Featured Projects
 
-ARES International Workshop 2026, Springer.
+### AI & LLM Engineering
 
-[Read the paper](https://doi.org/10.1007/978-3-032-35576-8_25)
-
-## Projects
-
-### Applied AI and Deep Learning
-
-| Repository | Description |
+| Project | Description |
 |---|---|
-| [Gemma-RAG](https://github.com/PrashantSU/Gemma-RAG) | Retrieval-augmented generation using semantic search, FAISS and a language model |
-| [Transformers](https://github.com/PrashantSU/Transformers) | Transformer architectures implemented in PyTorch |
-| [RNNs-with-PyTorch](https://github.com/PrashantSU/RNNs-with-PyTorch) | RNN, LSTM and GRU models |
-| [CNNs-with-PyTorch](https://github.com/PrashantSU/CNNs-with-PyTorch) | Convolutional neural network implementations |
-| [PyTorch-Models](https://github.com/PrashantSU/PyTorch-Models) | Collection of deep learning models in PyTorch |
-
-### Reinforcement Learning
-
-| Repository | Methods / Focus |
-|---|---|
-| [deep-rl-lunar-lander](https://github.com/PrashantSU/deep-rl-lunar-lander) | DQN, PPO and A2C on LunarLander-v3 |
-| [mountain-car-rl](https://github.com/PrashantSU/mountain-car-rl) | Tile coding, SARSA and linear function approximation |
-| [frozen-lake-rl](https://github.com/PrashantSU/frozen-lake-rl) | Q-learning, SARSA and offline reinforcement learning |
-| [mdp-wireless-routing](https://github.com/PrashantSU/mdp-wireless-routing) | Dynamic programming and value iteration for wireless routing |
-| [Contextual-bandit-news-recommendation](https://github.com/PrashantSU/Contextual-bandit-news-recommendation) | Contextual bandits for news recommendation |
-
-### Statistics and Applied Machine Learning
-
-| Repository | Description |
-|---|---|
-| [Statistical-exploration-of-Swedish-housing](https://github.com/PrashantSU/Statistical-exploration-of-Swedish-housing) | Statistical analysis of Swedish housing data in R |
-| [Inferential-Statistics-and-Multivariate-Regression-Modeling-of-Housing-Prices-in-Stockholm](https://github.com/PrashantSU/Inferential-Statistics-and-Multivariate-Regression-Modeling-of-Housing-Prices-in-Stockholm) | Inferential statistics and multivariate regression |
-| [Machine-Learning-Pipelines-and-Grid-Search](https://github.com/PrashantSU/Machine-Learning-Pipelines-and-Grid-Search) | Scikit-learn pipelines and hyperparameter tuning |
+| [RAN Intelligence Platform](https://github.com/PrashantSU/ran-intelligence) | An AI-driven platform for analysing RAN data, combining data processing, machine learning and LLM-based intelligence |
+| [Enterprise Confidential RAG](https://github.com/PrashantSU/enterprise-confidential-rag) | Document intelligence application using retrieval-augmented generation and semantic search |
+| [Gemma RAG](https://github.com/PrashantSU/Gemma-RAG) | RAG implementation using sentence embeddings, FAISS and Gemma for context-aware question answering |
 
 ### Data Engineering
 
-| Repository | Description |
+| Project | Description |
 |---|---|
-| [Fabric-NYC-Taxi-Data-Project](https://github.com/PrashantSU/Fabric-NYC-Taxi-Data-Project) | Data engineering project using Microsoft Fabric |
-| [airflow](https://github.com/PrashantSU/airflow) | Apache Airflow codebase (fork) |
-| [end-to-end-data-engineering-project-4413618](https://github.com/PrashantSU/end-to-end-data-engineering-project-4413618) | End-to-end data engineering learning project |
+| [NYC Taxi Data Pipeline](https://github.com/PrashantSU/Fabric-NYC-Taxi-Data-Project) | Data engineering pipeline built using Microsoft Fabric |
+| [Apache Airflow](https://github.com/PrashantSU/airflow) | Apache Airflow repository fork for exploring workflow orchestration |
 
-## Achievements
+### Machine Learning & Reinforcement Learning
 
-- **18th place** among approximately 275 teams in the Huawei International Mathematics Competition 2026 — [competition repository](https://github.com/PrashantSU/imc-2026-perception-loss)
-- **GATE qualified**, 94th percentile
-- **3rd in class** in B.Tech at NERIST
+| Project | Description |
+|---|---|
+| [Contextual Bandit News Recommendation](https://github.com/PrashantSU/Contextual-bandit-news-recommendation) | Contextual bandit algorithms for personalised news recommendation |
+| [Deep RL Lunar Lander](https://github.com/PrashantSU/deep-rl-lunar-lander) | Implementation and comparison of DQN, PPO and A2C |
+| [Mountain Car RL](https://github.com/PrashantSU/mountain-car-rl) | SARSA, tile coding and linear function approximation |
+| [MDP Wireless Routing](https://github.com/PrashantSU/mdp-wireless-routing) | Dynamic programming and value iteration applied to wireless routing |
 
-## Contact
+### Deep Learning & Statistical Modelling
+
+| Project | Description |
+|---|---|
+| [Transformers](https://github.com/PrashantSU/Transformers) | Transformer architectures implemented in PyTorch |
+| [PyTorch Models](https://github.com/PrashantSU/PyTorch-Models) | Collection of deep learning model implementations |
+| [Swedish Housing Analysis](https://github.com/PrashantSU/Statistical-exploration-of-Swedish-housing) | Statistical exploration and analysis of Swedish housing data using R |
+| [Stockholm Housing Price Modelling](https://github.com/PrashantSU/Inferential-Statistics-and-Multivariate-Regression-Modeling-of-Housing-Prices-in-Stockholm) | Inferential statistics and multivariate regression modelling |
+
+## 🔬 Research & Publication
+
+**Machine Learning for Coordinated Beamforming in 5G Networks**
+
+Research conducted at **Huawei R&D, Sweden**, focusing on machine learning-based scheduling prediction under inter-base-station backhaul delay.
+
+**Publication**
+
+Prashant Kumar Singh, Shubham Vaishnav, Ahmet Hasim Gökceoglu, Li Wang.
+
+*Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming.*
+
+ARES International Workshop 2026, Springer.
+
+[Read the publication](https://doi.org/10.1007/978-3-032-35576-8_25) · [Read on arXiv](https://arxiv.org/abs/2607.08454)
+
+## 🏆 Achievements
+
+- **18th place** among approximately 275 teams in the Huawei International Mathematics Competition 2026.
+- **94th percentile** in GATE.
+- **3rd in class** during B.Tech at NERIST.
+- Microsoft Certified: Fabric Data Engineer Associate.
+
+## 🎓 Education
+
+- **MSc Data Science, Statistics & Decision Analysis** — Stockholm University
+- **M.Tech Structural Engineering** — IIT Gandhinagar
+- **B.Tech Civil Engineering** — NERIST
+
+## 📫 Connect
 
 - Email: [iamprashant1999@gmail.com](mailto:iamprashant1999@gmail.com)
-- LinkedIn: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-173a89215)
+- LinkedIn: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-173a89215/)
 - GitHub: [PrashantSU](https://github.com/PrashantSU)
 - Location: Stockholm, Sweden
